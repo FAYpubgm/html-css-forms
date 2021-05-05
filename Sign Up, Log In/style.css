@@ -1,0 +1,51 @@
+*{
+  font-family: sans-sans-serif;
+  color: whitesmoke;
+}
+body{
+  background-image: url(https://www.wallpapertip.com/wmimgs/13-131390_bi-background-light-blue-png-304043-background-for.png);
+}
+.form{
+  align-items: center;
+  margin-left: 130px;
+  margin-top: 80px;
+}
+.email{
+  background-color: black;
+  border-radius: 15px;
+  border-color: whitesmoke;
+  width: 250px;
+  height: 30px;
+}
+.password{
+  background-color: black;
+  border-radius: 15px;
+  border-color: whitesmoke;
+  width: 250px;
+  height: 30px;
+}
+.submit{
+  background-color: black;
+  border-radius: 20px;
+  border-color: whitesmoke;
+  width: 80px;
+  height: 25px;
+  margin-left: 80px;
+  margin-top: -25px;
+}
+.log-in{
+  color: black;
+  margin-left: 85px;
+}
+.img{
+  margin-left: 600px;
+  width: 550px;
+  height: 500px;
+  margin-top: -200px;
+  border-radius: 10%;
+}
+.href{
+  color: blue;
+  margin-left: 300px;
+  text-decoration: underline;
+}
